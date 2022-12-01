@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=gemnsh)](https://velog.io/gemnsh)
 
 <!--
 **gemnsh/gemnsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
