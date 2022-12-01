@@ -1,5 +1,5 @@
-[![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=gemnsh)](https://velog.io/gemnsh)
-
+[![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=light&name=gemnsh)](https://velog.io/gemnsh)
+<img align='right' src="https://mazassumnida.wtf/api/v2/generate_badge?boj=adardua">
 <!--
 **gemnsh/gemnsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
